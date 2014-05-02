@@ -584,6 +584,8 @@
 	},
 	"file_history":
 	[
+		"/opt/lampp/htdocs/sistemas/iutai/sermed/LICENSE",
+		"/opt/lampp/htdocs/sistemas/iutai/sermed/README.md",
 		"/opt/lampp/htdocs/sistemas/iutai/sermed/cfg/funciones.php",
 		"/opt/lampp/htdocs/sistemas/iutai/sermed/app/pacientes/clases/mPacientes.php",
 		"/opt/lampp/htdocs/sistemas/iutai/sermed/app/pacientes/clases/cPacientes.php",
@@ -709,9 +711,7 @@
 		"/opt/lampp/htdocs/sistemas/empresas/glosshealth/app/usuarios/vistas/micuenta.php",
 		"/opt/lampp/htdocs/sistemas/empresas/glosshealth/app/ejercicios/clases/mEjercicios.php",
 		"/opt/lampp/htdocs/sistemas/empresas/glosshealth/app/ejercicios/clases/cEjercicios.php",
-		"/opt/lampp/htdocs/sistemas/empresas/glosshealth/app/ejercicios/vistas/paquetes.lista.php",
-		"/opt/lampp/htdocs/sistemas/empresas/glosshealth/app/ejercicios/vistas/paquete.update.php",
-		"/opt/lampp/htdocs/sistemas/empresas/glosshealth/app/ejercicios/vistas/paquete.insert.php"
+		"/opt/lampp/htdocs/sistemas/empresas/glosshealth/app/ejercicios/vistas/paquetes.lista.php"
 	],
 	"find":
 	{
